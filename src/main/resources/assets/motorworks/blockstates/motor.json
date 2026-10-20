@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "motorworks:block/motor"
+    },
+    "lit=true": {
+      "model": "motorworks:block/motor_on"
+    }
+  }
+}

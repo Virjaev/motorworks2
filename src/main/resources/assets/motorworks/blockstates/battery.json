@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "motorworks:block/battery"
+    },
+    "facing=east": {
+      "model": "motorworks:block/battery",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "motorworks:block/battery",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "motorworks:block/battery",
+      "y": 270
+    }
+  }
+}

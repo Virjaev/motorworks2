@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "motorworks:block/motor_top",
+    "side": "motorworks:block/motor_side_on",
+    "bottom": "motorworks:block/motor_bottom"
+  }
+}

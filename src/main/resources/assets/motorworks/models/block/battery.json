@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "motorworks:block/battery_top",
+    "front": "motorworks:block/battery_front",
+    "side": "motorworks:block/battery_side"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "itemGroup.motorworks": "Motorworks",
+  "block.motorworks.motor": "Motor",
+  "block.motorworks.wheel": "Rad",
+  "block.motorworks.battery": "Batterie",
+  "block.motorworks.cable": "Kabel",
+  "block.motorworks.lamp": "Lampe",
+  "block.motorworks.gasoline_block": "Benzin",
+  "item.motorworks.gasoline_bucket": "Benzineimer",
+  "fluid_type.motorworks.gasoline": "Benzin",
+  "message.motorworks.fuel": "Treibstoff: %s s",
+  "message.motorworks.full": "Tank ist voll",
+  "message.motorworks.energy": "Energie: %s / %s FE"
+}

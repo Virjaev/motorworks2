@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "motorworks:motor",
+    "motorworks:wheel",
+    "motorworks:battery",
+    "motorworks:lamp"
+  ]
+}
